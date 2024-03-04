@@ -466,6 +466,35 @@ var userName;
 //  document.write("result is " + result + "<br>");
 
 
+// Q no 03 
+
+// var userName = prompt("Enter Your Name");
+
+// alert("Welcome to our Website");
+
+
+// Q no 04 
+
+
+
+// Q no 05 
+// ..............subjects name 
+// document.write(" Subject  total marks obtain  mark  percentage " + "<br>")
+// var subject1 = prompt("Enter Subject 1 :");
+// var subject2 = prompt("Enter Subject 2 :");
+// var subject3 = prompt("Enter Subject 3 :");
+
+// document.write(subject1  +" "+  subject2 +" "+  subject3 + "<br>")
+// // total marks 
+
+// var totalMarks = 100;
+
+// // Obtain Marks 
+// var obtainedMarksSubject1 = Number(prompt("Enter obtained marks for " + subject1 + ":"));
+// var obtainedMarksSubject2 = Number(prompt("Enter obtained marks for " + subject2 + ":"));
+// var obtainedMarksSubject3 = Number(prompt("Enter obtained marks for " + subject3 + ":"));
+
+//  document.write (obtainedMarksSubject1   +" "+ obtainedMarksSubject2 +" "+  obtainedMarksSubject3 + "<br>")
 
 
 
